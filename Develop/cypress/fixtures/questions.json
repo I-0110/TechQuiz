@@ -1,0 +1,9 @@
+{
+  "question": "What is the language that we are testing?",
+  "answers": [
+    { "text": "JavaScript", "isCorrect": false },
+    { "text": "TypeScript", "isCorrect": false },
+    { "text": "Java", "isCorrect": false },
+    { "text": "Python", "isCorrect": true }
+  ]
+}
