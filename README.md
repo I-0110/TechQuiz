@@ -1,3 +1,54 @@
+# TECH QUIZ (CYPRESS TEST)
+
+## Description
+
+Our Tech Quiz (Cypress Test) is inspired by the need of getting a website quiz working propertly during user's test time. We created this project because students (users) were having issues with loading time and if the test coding was indeed there. We resolved to test the entire system and just focus on test the loading process and the component of the quiz separately. We learned that using Cypress we can test both without spending time and money using other methods less practical.
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+Steps for installation:
+Step 1: Open VS code, access to the terminal and type: npm i
+Step 2: Then, npm run test-gui
+Step 3: Wait for Cypress to open. 
+Step 4: Select in Cypress to open e2e / component
+Step 5: Click the file to test
+
+## Usage
+
+You can use our Tech Quiz (Cypress Test) by opening terminal in VS code and following instructions above to test the project. To use it as it is, just run in the VS terminal "npm run start" and you can test your knowledge using Python!.
+
+    ![Tech Quiz (Cypress Test)]()
+    
+## Credits
+
+- Collaborator(s): Ivelis Becker (https://github.com/I-0110/)
+
+## Features
+
+Cypress test
+
+## How to Contribute
+
+Please contact me at my email (ivelisbecker@gmail.com) for suggestions or contributions
+
+## Tests
+
+
+
+Created by Ivelis Becker GitHub: I-0110
+
+## Questions 
+
+For questions, please contact Ivelis Becker, ivelisbecker@gmail.com, https://github.com/I-0110/
+
 # 19 Testing: Tech Quiz Test Suite
 
 ## Your Task
